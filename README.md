@@ -1,14 +1,17 @@
 # Jingle
-<h1> Installation</h1>
-Installation
+<h1> Installation </h1>
 
-<p>For windows users
-(run those in command prompt/cmt/terminal) For the AI to listen to your voice/speech pip install speechRecognition</p>
 
-<ul>To speak out, or text to speech pip install pyttsx3</ul>
+<p>For windows users</p>
+<br>
+<p>(run those in command prompt/cmt/terminal) For the AI to listen to your voice/speech <code>pip install speechRecognition</code></p>
 
-<ul>For advance control on browser pip install pywhatkit</ul>
+To speak out, or text to speech <code><pip install pyttsx3</code>
 
-<ul>To get wikipedia data pip install wikipedia</ul>
-
-<ul>To get funny jokes pip install pyjokes</ul>
+For advance control on browser <code>pip install pywhatkit</code>
+  <br>
+    <br>
+To get wikipedia data <code>pip install wikipedia</code></ul>
+  <br>
+    <br>
+To get funny jokes <code>pip install pyjokes</code>
